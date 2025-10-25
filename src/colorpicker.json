@@ -1,0 +1,7 @@
+[
+  { "label": "red", "color": "#F44336" },
+  { "label": "blue", "color": "#2196F3" },
+  { "label": "white", "color": "#FFF" },
+  { "label": "black", "color": "#0000" },
+  { "label": "pink", "color": "#E91E63" }
+]
